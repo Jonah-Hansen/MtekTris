@@ -1,0 +1,1 @@
+"C:\Program Files\PuTTY\pscp.exe" game.py pi@led-pc.office.remote.net:/home/pi/rpi_ws281x/python/examples
